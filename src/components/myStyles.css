@@ -1,0 +1,26 @@
+.bg-light{
+    padding:20px 0px;
+    width: 100%;
+    border-radius: 0px;
+    z-index: 999;
+    margin-bottom: 0px;
+   
+    transition: all 0.5s ease-in-out;
+}
+
+
+
+.nav-link{
+    font: 14px "Open Sans",sans-serif ;
+    color: #413E66;
+    font-weight: bold;
+    padding:30px 15px 15px 15px !important;
+}
+
+
+.logo{
+    position: absolute;
+    left: 50px;
+    top: 5px;
+    
+}
